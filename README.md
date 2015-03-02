@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist spevv/yii2-flipclock "*"
+php composer.phar require --prefer-dist spevv/yii2-flipclock "dev-master"
 ```
 
 or add
 
 ```
-"spevv/yii2-flipclock": "*"
+"spevv/yii2-flipclock": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
