@@ -28,7 +28,7 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-use spevv\FlipClock;
+use spevv\flipclock\FlipClock;
 
 <?= FlipClock::widget([
     'selector' => '#clock', // ID for the future DIV
