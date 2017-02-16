@@ -1,7 +1,7 @@
 <?php
 
 
-namespace spevv\flipclock;
+namespace maks757\flipclock;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
