@@ -1,13 +1,13 @@
 <?php
 
 
-namespace spevv\flipclock;
+namespace maks757\flipclock;
 
 use yii\web\AssetBundle;
 
 class FlipclockAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/spevv/yii2-flipclock/assets'; 
+    public $sourcePath = '@vendor/maks757/yii2-flipclock/assets'; 
 	
 
 	 public $depends = [
